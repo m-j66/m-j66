@@ -1,5 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=a008cf&lines=Hi+there,+I'm+Mahnoor;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=da7cf7&lines=Hi+there,+I'm+Mahnoor;)
 
 Full stack developer building immersive, high-performance web experiences. I care about clean UI, real-world architecture, and solving problems that actually matter.
 
