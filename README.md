@@ -1,4 +1,3 @@
-## Hi there 👋
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6E5FF0&lines=Hi+there,+I'm+Mahnoor;)
 
