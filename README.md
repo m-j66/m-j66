@@ -1,4 +1,6 @@
-## Hi there, I'm Mahnoor 
+## Hi there 👋
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6E5FF0&lines=Hi+there,+I'm+Mahnoor;)
 
 Full stack developer building immersive, high-performance web experiences. I care about clean UI, real-world architecture, and solving problems that actually matter.
 
